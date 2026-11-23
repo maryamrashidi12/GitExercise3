@@ -1,0 +1,1 @@
+Feature B developed in repository 2
